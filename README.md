@@ -6,7 +6,7 @@ Uncover Nairobi and Kenya’s most fatal roads, the data behind the carnage, and
 </p>
 
 <p align="center">
-  🌐 <a href="[https://traffic-accidents-in-kenya.my.canva.site]" target="_blank"><strong>View the Interactive Report Website</strong></a>  
+  🌐 <a href="https://johnmegwe.my.canva.site/wheels-of-danger" target="_blank"><strong>View the Interactive Report Website</strong></a>  
 </p>
 
 ---
